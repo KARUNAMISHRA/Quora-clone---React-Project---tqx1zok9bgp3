@@ -1,4 +1,4 @@
-[debug] [2023-02-25T08:08:28.133Z] ----------------------------------------------------------------------
+ [debug] [2023-02-25T08:08:28.133Z] ----------------------------------------------------------------------
 [debug] [2023-02-25T08:08:28.148Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Lanchenba\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
 [debug] [2023-02-25T08:08:28.150Z] CLI Version:   11.24.0
 [debug] [2023-02-25T08:08:28.153Z] Platform:      win32
@@ -18,4 +18,3 @@
 You're about to initialize a Firebase project in this directory:
 
   C:\Users\Lanchenba\IdeaProjects\quora-clone-new-master\src
-
