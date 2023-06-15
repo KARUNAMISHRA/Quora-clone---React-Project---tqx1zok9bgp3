@@ -16,7 +16,7 @@ import firebase from 'firebase/compat/app'
 
 
 
-export default function Navbar() {
+export default function Navbar(a) {
   const user = useSelector(selectUser)
   const [openModal, setOpenModal] = useState(false)
   const [input, setInput]= useState("")
