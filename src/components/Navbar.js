@@ -54,7 +54,7 @@ export default function Navbar() {
         </div>
         <div className="qHeader__Rem">
           <div className='qHeader__avatar'>
-            <Avatar onClick={() => auth.signOut()}
+            <Avatar onClick={() => auth.signOut()} 
             className='avatar'
             src={user.photo} />
         </div>
